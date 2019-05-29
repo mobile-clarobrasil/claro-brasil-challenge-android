@@ -38,6 +38,7 @@ Requisitos do Produto
  - Utilizar ConstraintLayout
  - Orientação portrait
  - Orientação landscape durante a exibição do trailer
+ - Pelo menos um teste automatizado de interface
  
 #### Requisitos desejáveis
 
@@ -46,8 +47,7 @@ Requisitos do Produto
  - Busca automática (buscar na API conforme o usuário digita)
  - Layout diferenciado para Tablet caso aplicável
  - Suporte a landscape nos Smartphones e / ou Tablets
- - Pelo menos um teste automatizado de interface
- - Pelo menos um teste unitário
+ - Teste unitário
  - Integração contínua (Travis/Fastlane)
  - Utilizar arquitetura MVVM
 
