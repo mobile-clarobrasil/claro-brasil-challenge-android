@@ -32,7 +32,7 @@ Requisitos do Produto
  - Apresentar indicadores de carregamento durante a execução de todas as requisições ou operações assíncronas que demandem um tempo perceptível ao usuário
  - Indicar para o usuário quando não há resultados na busca / filmes favoritados
  - Indicar para o usuário quando ocorrer algum erro nas requisições
- - Relizar requisições assíncronamente (Coroutines)
+ - Realizar requisições assíncronamente (Coroutines)
  - Persistência local dos filmes favoritados (Room)
  - Utilização de um gerenciador de dependências (Gradle)
  - Utilizar ConstraintLayout
