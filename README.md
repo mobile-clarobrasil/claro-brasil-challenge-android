@@ -1,5 +1,3 @@
-# claro-brasil-challenge-android
-
 Claro Brasil Challenge - Android
 ===================
 
